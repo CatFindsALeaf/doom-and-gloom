@@ -1,3 +1,4 @@
+# Doom and Gloom
 This program was written for the CS1122 course at Michigan Tech.<br/>
 The syntax of the commands are as follows (All parts should be separated by a space):<br/>
 - ‘=’ is always put at the beginning of a command. This tells the program to take the next given string and use it as the variable name.<br/>
